@@ -1,3 +1,5 @@
 */images/*
 */assets/*
-*svg
+*.svg
+*.jpg
+*/*/images/*
